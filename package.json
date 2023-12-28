@@ -8,8 +8,8 @@
     "test": "nx test"
   },
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@analogjs/platform": "^0.2.29",
     "@nrwl/cli": "13.9.3",
     "@nrwl/js": "13.9.3",
     "@nrwl/nx-cloud": "latest",

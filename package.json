@@ -11,6 +11,7 @@
   "dependencies": {},
   "devDependencies": {
     "@nrwl/cli": "13.9.3",
+    "@nrwl/js": "13.9.3",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "13.9.3",
     "@types/node": "16.11.7",
